@@ -2,7 +2,7 @@ import sys
 
 def main() -> None:
     """Entry point for the hello world script."""
-    print("Hello World")
+    print("hello world")
     return 0
 
 if __name__ == "__main__":
